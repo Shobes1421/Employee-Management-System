@@ -1,0 +1,19 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "Employee management",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shobes1421/Employee-Management-System.git"
+  },
+  "author": "David Shober",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shobes1421/Employee-Management-System/issues"
+  },
+  "homepage": "https://github.com/Shobes1421/Employee-Management-System#readme"
+}
