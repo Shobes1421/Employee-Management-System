@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/Shobes1421/Employee-Management-System#readme",
   "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
     "inquirer": "^7.3.3",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "seed": "^0.4.4"
   }
 }
